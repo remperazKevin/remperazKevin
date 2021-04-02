@@ -27,6 +27,8 @@ Hi, I'm @remperazKevin.
 	- [ ] Search for music
 		- [ ] via Given link
 		- [ ] via Keywords
+- [x] Urban-dictionary
+- [x] Random Cats
 > The bot aims to replace multiple discord bots' functionality (since we have a lot of them...) and so we can tailor each command fit for our needs.
 Want to join our discord server? We plan to launch the server and bot once everything is finished.
 
