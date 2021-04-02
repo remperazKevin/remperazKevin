@@ -5,6 +5,9 @@ Hi, I'm @remperazKevin.
 - Likes FPS Games
 - Audiophile
 
+[Twitter](https://twitter.com/remperazKevin)
+
+
 - - - -
 ## Current Project ##
 
