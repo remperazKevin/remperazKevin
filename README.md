@@ -29,6 +29,7 @@ Hi, I'm @remperazKevin.
 		- [ ] via Keywords
 - [x] Urban-dictionary
 - [x] Random Cats
+- [x] Simping
 > The bot aims to replace multiple discord bots' functionality (since we have a lot of them...) and so we can tailor each command fit for our needs.
 Want to join our discord server? We plan to launch the server and bot once everything is finished.
 
