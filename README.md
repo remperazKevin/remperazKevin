@@ -3,7 +3,7 @@ Hi, I'm @remperazKevin.
 
 - ICT Student
 - Likes FPS Games
-- Audiophile
+- Bot Developer
 
 <!---
 remperazKevin/remperazKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
