@@ -12,16 +12,15 @@ _Instagram_ → [**`@remperazKevin`**](https://www.instagram.com/remperazkevin/)
 - - -
 
 ## Current work agenda
-- [ ] v3.0.0 HoloHub Discord Bot Update
+- [x] v3.0.0 HoloHub Discord Bot Update
 - [ ] HoloSimp Discord Bot Rework _(v2.0.0)_
 - [ ] Facebook Group and Chat Bot
-- [ ] Twitter FanArt Downloader
 - [ ] HoloHub Reddit Bot
 
 - - -
 
 ## Current Discord Bots
-- [x] [**HoloHub**](https://remperazkevin.github.io/holohub.github.io/)
+- [x] [**HoloHub**](https://holohub-community.github.io/)
 - [ ] **HoloSimp**
 - [ ] **NAMB** _(Not A Music Bot)_
 
