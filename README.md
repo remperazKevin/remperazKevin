@@ -21,7 +21,7 @@ _Instagram_ → [**`@remperazKevin`**](https://www.instagram.com/remperazkevin/)
 
 ## Current Discord Bots
 - [x] [**HoloHub**](https://holohub-community.github.io/)
-- [ ] **HoloSimp**
+- [ ] [**HoloSimp**](https://holohub-community.github.io/holosimp.github.io/)
 - [ ] **NAMB** _(Not A Music Bot)_
 
 - - -
