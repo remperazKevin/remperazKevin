@@ -12,7 +12,6 @@ _Instagram_ → [**`@remperazKevin`**](https://www.instagram.com/remperazkevin/)
 - - -
 
 ## Current work agenda
-- [x] v3.0.0 HoloHub Discord Bot Update
 - [ ] HoloSimp Discord Bot Rework _(v2.0.0)_
 - [ ] Facebook Group and Chat Bot
 - [ ] HoloHub Reddit Bot
