@@ -1,7 +1,7 @@
 # About Me
 Hi, I'm [**`@remperazKevin`**](https://github.com/remperazKevin).
 
-The current and only developer of [**HoloHub**](https://www.facebook.com/groups/holohubvtubercommunity). _(A VTuber simping community)_
+A programmer of [**HoloHub**](https://www.facebook.com/groups/holohubvtubercommunity). _(A VTuber simping community)_
 
 <br/>
 
