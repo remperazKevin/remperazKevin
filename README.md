@@ -1,8 +1,8 @@
 # About Me
 
 _Socials:_\
-_Twitter_ → [@remperazKevin](https://twitter.com/remperazKevin)\
-_Instagram_ → [@remperazKevin](https://www.instagram.com/remperazkevin/)
+_Twitter_ → [@remperaz_Kevin](https://twitter.com/remperaz_Kevin)\
+_Instagram_ → [@remperaz_Kevin](https://www.instagram.com/remperaz_kevin/)
 
 - - -
 
