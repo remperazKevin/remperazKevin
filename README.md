@@ -6,9 +6,9 @@ _Instagram_ → [@remperazKevin](https://www.instagram.com/remperazkevin/)
 
 - - -
 
-## Current Discord Bots
+## Current Works
 
-- [x] _CTRL_ → [CTRL — Control | CTRL](https://remperazkevin.github.io/ctrl.github.io/)
+- [x] _CTRL_ → [CTRL — Control | CTRL](https://ctrl-management.github.io/)
 - [ ] _HoloSimp_ → Website yet to be made
 - [ ] _NAMB (Not A Music Bot)_ → Website yet to be made
 
