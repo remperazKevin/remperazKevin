@@ -2,7 +2,7 @@
 
 > *"Be the Nightmare"*
 
-Aspiring full-stack developer focused on automation, scalable systems, and clean user-facing tools.
+Full-stack developer focused on automation, scalable systems, and clean user-facing tools.
 
 ---
 
